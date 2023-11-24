@@ -2,6 +2,7 @@
 *{
   margin-left:0.5px;
   margin-right: 0.5px;
+  overflow: hidden;
 }
 
 body {
@@ -24,6 +25,7 @@ nav {
   display: flex;
   align-items: center;
   position:sticky;
+  top:0;
 }
 
 nav ul {
