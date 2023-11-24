@@ -1,19 +1,17 @@
 
 *{
-  margin-left:0.5px;
-  margin-right: 0.5px;
-  overflow: hidden;
+  margin-left:0px;
+  margin-right: 0px;
 }
 
 body {
-    
     margin: 0;
     padding: 0;
 }
 #heading{
   text-align: center;
   background-image: url("orangered.jpeg");
-  font-size: 192px;
+  font-size: 10vh;
   background-clip: text;
   -webkit-background-clip:text;
   background-size: cover;
