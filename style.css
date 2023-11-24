@@ -13,7 +13,7 @@ body {
 #heading{
   text-align: center;
   background-image: url("orangered.jpeg");
-  font-size: 10vw;
+  font-size: 192px;
   background-clip: text;
   -webkit-background-clip:text;
   background-size: cover;
